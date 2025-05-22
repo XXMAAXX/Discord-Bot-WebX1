@@ -26,16 +26,16 @@
   --onyx-1: hsl(0, 100%, 50%);
   --onyx-2: hsl(0, 100%, 50%);
   --gray-web: hsl(0, 100%, 50%);
-  --light-gray: hsl(0, 0%, 0%);
+  --light-gray: hsl(0, 100%, 50%);
   --davys-gray: hsl(0, 0%, 0%);
-  --field-drab: hsl(0, 100%, 50%);
+  --field-drab: hsl(0, 0%, 0%);
   --red-crayola: hsl(0, 100%, 50%);
   --golden-puppy: hsl(0, 100%, 50%);
   --quick-silver: hsl(0, 0%, 100%);
   --sonic-silver: hsl(0, 100%, 51%);
   --eerie-black-1: hsl(0, 0%, 0%);
   --eerie-black-2: hsl(0, 0%, 0%);
-  --rich-black-fogra-39: hsl(0, 0%, 2%);
+  --rich-black-fogra-39: hsl(0, 0%, 0%);
 
   /**
    * typography
@@ -827,7 +827,7 @@ header .container {
   pointer-events: all;
 }
 
-.go-top:hover { --eerie-black-1: hsl(0, 100%, 50%); }
+.go-top:hover { --eerie-black-1: hsl(0, 91%, 8%); }
 
 
 
